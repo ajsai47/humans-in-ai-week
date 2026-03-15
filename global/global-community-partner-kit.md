@@ -66,7 +66,7 @@ An organization with a large audience (newsletter, community, network) that prom
 > Interested? Happy to share more.
 >
 > AJ Green
-> Founder & CEO, The AI Collective
+> AJ Green, The AI Collective
 
 ### X/Twitter DM
 

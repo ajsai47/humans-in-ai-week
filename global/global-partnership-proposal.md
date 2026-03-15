@@ -53,7 +53,7 @@ The AI Collective is the world's largest AI community:
 ## Next steps
 
 1. Review this proposal
-2. Schedule a 30-minute call with AJ Green (Founder & CEO)
+2. Schedule a 30-minute call with AJ Green
 3. Confirm tier and customize benefits
 4. Signed agreement and payment
 5. Activation begins

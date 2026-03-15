@@ -30,7 +30,7 @@ This code of conduct applies to all HAIW events — in-person and virtual — ac
 Chapter leads are responsible for enforcing this code of conduct at their local events. If you experience or witness unacceptable behavior:
 
 1. **At an event:** Speak to the chapter lead or event organizer immediately
-2. **After an event:** Email conduct@aicollective.com
+2. **After an event:** Email catherine@aicollective.com
 
 Reports will be reviewed and addressed promptly. Anonymity of reporters will be protected.
 

@@ -74,6 +74,6 @@ This data powers the global HAIW narrative. When we say "200 cities discussed AI
 
 ---
 
-**Submit to**: chapter-ops@aicollective.com or via the submission form (link TBD)
+**Submit to**: catherine@aicollective.com or via the submission form (link TBD)
 
 Thank you for being part of the largest coordinated conversation about AI in history.

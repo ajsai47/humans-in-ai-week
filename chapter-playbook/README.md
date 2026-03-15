@@ -38,4 +38,4 @@ HAIW events are flexible. Choose what fits your community:
 ## Support
 
 - GitHub Discussions: [Ask a question](https://github.com/ajsai47/humans-in-ai-week/discussions)
-- Chapter Ops team: chapter-ops@aicollective.com
+- Chapter Ops team: catherine@aicollective.com

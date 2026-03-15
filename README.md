@@ -76,6 +76,28 @@ Every event centers on one or more of these six tracks. Pick what resonates with
 
 ---
 
+## Flagship conferences
+
+In major hub cities, HAIW runs **full-day, ticketed conferences** (1,000–2,000 attendees) alongside the global chapter meetups. These are the marquee events of the week.
+
+| City | Date | Scale | Status |
+|------|------|-------|--------|
+| San Francisco | June TBD | 1,000–2,000 | Planning |
+| New York | June TBD | 1,000–2,000 | Planning |
+| Washington DC | June TBD | 1,000–2,000 | Planning |
+| TBD | TBD | TBD | TBD |
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Overview | How flagships differ from chapter meetups | [`/flagship-conferences`](./flagship-conferences) |
+| Event Format | Full-day agenda template, breakout sessions, stage programming | [`event-format.md`](./flagship-conferences/event-format.md) |
+| Ticket Tiers | $49–$199 pricing, revenue model, comp policy | [`ticket-tiers.md`](./flagship-conferences/ticket-tiers.md) |
+| Sponsorship Prospectus | Title ($50K–$100K), Presenting, Supporting, Exhibitor tiers | [`sponsorship-prospectus.md`](./flagship-conferences/sponsorship-prospectus.md) |
+| Speaker Strategy | Sourcing from AIC's 100+ partner network, invite templates | [`speaker-strategy.md`](./flagship-conferences/speaker-strategy.md) |
+| Production Checklist | 10-week countdown, day-of operations, post-event | [`production-checklist.md`](./flagship-conferences/production-checklist.md) |
+
+---
+
 ## Google Drive assets
 
 All master documents live in Google Drive. These are the canonical versions maintained by the HAIW team.
